@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TukyWebApp", "TukyWebApp\TukyWebApp.csproj", "{0AD5E671-7021-40DC-8926-BE0093D42A1A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TukyDataAccess", "TukyWebDb\TukyDataAccess.csproj", "{DFBEA5EA-92D9-49AE-A300-7A0CA7323183}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AD5E671-7021-40DC-8926-BE0093D42A1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AD5E671-7021-40DC-8926-BE0093D42A1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AD5E671-7021-40DC-8926-BE0093D42A1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AD5E671-7021-40DC-8926-BE0093D42A1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFBEA5EA-92D9-49AE-A300-7A0CA7323183}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFBEA5EA-92D9-49AE-A300-7A0CA7323183}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFBEA5EA-92D9-49AE-A300-7A0CA7323183}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFBEA5EA-92D9-49AE-A300-7A0CA7323183}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {744D7857-B847-45E9-ABAF-A53124AB2CF0}
+	EndGlobalSection
+EndGlobal
